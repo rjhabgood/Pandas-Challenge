@@ -1,2 +1,2 @@
-# Pandas-Challenge
-reviewing district school data with Pandas
+# Pandas-challenge
+Analysis of city school district
